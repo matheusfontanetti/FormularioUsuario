@@ -1,0 +1,54 @@
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Bot Application.dll.config
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Bot Application.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Bot Application.pdb
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Autofac.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Chronic.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Builder.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Connector.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Web.Http.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Autofac.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Builder.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Bot.Connector.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Web.Http.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\obj\Debug\FormularioUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\obj\Debug\Bot Application.dll
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\obj\Debug\Bot Application.pdb
+C:\Users\Usuario\Documents\Cursos\Maratona de bots Microsoft\Projeto de Bot\FormularioUsuario\FormularioUsuario\obj\Debug\FormularioUsuario.csprojResolveAssemblyReference.cache
